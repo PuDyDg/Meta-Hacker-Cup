@@ -1,0 +1,11 @@
+Với một vài phép biến đổi công thức ta có thể tìm được lượng cần tăng lên
+
+Gọi lượng cần tăng lên là x ta có:
+
+	p^(n-1) = (p+x)^n
+	
+	p^(n-1/n) = p+x
+	
+	x = p^(n-1/n) - p
+
+Và với hàm pow trong c++ chúng ta có thể dễ dàng tìm được kết quả của bài toán
