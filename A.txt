@@ -1,0 +1,5 @@
+Ta nhận thấy chỉ cần một dùng người di chuyển nhanh nhất để đưa những người khác sang bên kia nên kết quả sẽ là
+
+	min_time * (MAX(0, n-2) * 2 + 1)
+
+trong đó min_time là thời gian thấp nhất để đi qua cầu
