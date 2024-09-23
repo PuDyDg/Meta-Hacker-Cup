@@ -1,0 +1,5 @@
+Ta có thể thấy viên đá thứ 1 sẽ là viên đá ở xa nhất rồi lần lượt tới viên đá thứ 2, viên đá thứ 3... viên đá thứ n.
+
+Và việc các viên đá va chạm với nhau cũng tương tự với việc các viên đá đi xuyên qua nhau nên:
+
+Vị trí của viên đá số 1 sẽ là E lớn nhất rồi lần lượt tới viên đá thứ 2, viên đá thứ 3... viên đá thứ n.
